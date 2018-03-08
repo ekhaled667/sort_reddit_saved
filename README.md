@@ -2,16 +2,16 @@
 
 sort_reddit_saved is a small python script that **sorts** saved Reddit posts with the following options:
 
-..* Newewst First
-..* Oldest First
-..* Ascendingly
-..* Ascendingly according to the subreddit
-..* Score
-..* Number of comments
+* Newewst First
+* Oldest First
+* Ascendingly
+* Ascendingly according to the subreddit
+* Score
+* Number of comments
 
 whilst doing this it takes a **back-up** of all of them just in case anything goes wrong or for future restoring (will be added later).
 
-###### It saved and sorts the **enire** saved history not just the *first* ~~1000~~ posts.
+###### It saves and sorts the **enire** saved history not just the *first* ~~1000~~ posts.
 
 ### Usage:
 
